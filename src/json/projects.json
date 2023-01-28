@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "img": "MovieDB.png",
+      "name": "MovieDB",
+      "demo": "https://DaviParma.github.io/MovieDB",
+      "code": "https://github.com/DaviParma/MovieDB"
+    },
+
+    {
+      "id": 2,
+      "img": "pizzaria.png",
+      "name": "Pizzaria",
+      "demo": "https://daviparma.github.io/Pizzaria",
+      "code": "https://github.com/DaviParma/Pizzaria"
+    },
+
+    
+    {
+      "id": 3,
+      "img": "Weather.png",
+      "name": "Weather",
+      "demo": "https://DaviParma.github.io/Weather",
+      "code": "https://github.com/DaviParma/Weather"
+    },
+
+    {
+      "id": 4,
+      "img": "crud.png",
+      "name": "Crud",
+      "demo": "https://youtu.be/KWIpEq-HZ90",
+      "code": "https://github.com/DaviParma/Crud"
+    },
+
+    {
+      "id": 5,
+      "img": "rest-api.png",
+      "name": "Rest-Api",
+      "demo": "https://youtu.be/KWIpEq-HZ90",
+      "code": "https://github.com/DaviParma/rest-api-sql"
+    }
+
+]

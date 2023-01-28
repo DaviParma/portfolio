@@ -1,0 +1,29 @@
+[
+    {
+      "id": 1,
+      "img": "git.png",
+      "name": "Git"
+    },
+
+    {
+      "id": 2,
+      "img": "figma.png",
+      "name": "Figma"
+    },
+
+    {
+      "id": 3,
+      "img": "visual-studio-code.png",
+      "name": "Visual Studio Code"
+    },
+
+    {
+      "id": 4,
+      "img": "postman.png",
+      "name": "Postman"
+    }
+
+
+]
+
+
