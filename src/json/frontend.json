@@ -29,6 +29,11 @@
       "id": 5,
       "img": "tailwind.png",
       "name": "Tailwind CSS"
+    },
+    {
+      "id": 6,
+      "img": "bootstrap.png",
+      "name": "Bootstrap"
     }
 
 ]
